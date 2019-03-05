@@ -1,0 +1,64 @@
+/* background */
+body {
+    background: url("../images/background.png");
+    background-repeat: repeat;
+}
+
+/* navbar */
+.navbar {
+    background-color: #ffffff;
+    border-bottom: 2px solid #cccccc;
+    height: 85px;
+    width: 100%;
+}
+
+.navbar-brand {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    font-size: 30px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+}
+
+.nav-link {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: #777777;
+}
+
+#mide {
+    border-right: 1px solid #777777;
+    border-left: 1px solid #777777;
+}
+
+.nav-link:hover {
+    background-color: #4aaaa5;
+    color: #ffffff;
+} 
+
+/* body */
+.display-4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: #4aaaa5;
+    font-weight: bold;
+}
+
+.jumbotron {
+    margin: 20px;
+    background: #ffffff;
+}
+
+.lead {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+
+/* footer */
+.footer-copyright {
+    border-top: 8px solid #4aaaa5;
+    background-color: #666666;
+    height: 50px;
+    color: #ffffff;
+    font-size: 8px;
+}
