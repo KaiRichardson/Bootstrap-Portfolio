@@ -54,6 +54,25 @@ body {
     color: #777777;
 }
 
+.card {
+    margin-top: 20px;
+}
+
+.card-img{
+    object-fit: cover;
+}
+
+.btn {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+    background-color: #4aaaa5;
+    border: 0;
+}
+
+.form-group {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 /* footer */
 .footer-copyright {
     border-top: 8px solid #4aaaa5;
